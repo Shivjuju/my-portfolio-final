@@ -1,0 +1,42 @@
+- title: Software Engineering Intern (HiTeK Force)
+  from: 2025
+  to: Present
+  description: >
+    Designed and built modules for a recruitment management platform using React (TypeScript) and FastAPI, integrating PostgreSQL with ORM via SQLAlchemy.  
+    Developed resume parsing and ranking workflows using spaCy NLP and AI-driven scoring logic for candidate-job matching.  
+    Implemented role-based access control, JWT authentication, and secure endpoints.  
+    Deployed containerized services using Docker, and automated CI/CD with Render for staging and production environments.  
+    Enhanced data workflows with custom API logging, error handling, and monitoring tools for reliability and uptime.
+
+- title: Software Engineer (Mr Dot Solutions Pvt Ltd)
+  from: May 2022
+  to: Jul 2023
+  description: >
+    Engineered “Shoutout”, a location-aware geo-broadcast feature for the AroundMe app, handling real-time message routing by region.  
+    Built offline-first message sync (Power Sync) with local queues, sync-on-reconnect, and Kafka-backed message delivery with TTL and conflict resolution.  
+    Optimized backend for scale using ClickHouse migration, and deployed scalable services with Docker + Kubernetes.  
+    Developed reusable backend services and RESTful APIs for chat, user presence, and regional notification modules.  
+    Improved app reliability by integrating Kafka-based event streaming, fault-tolerant retry queues, and region-aware delivery status tracking.
+
+- title: Software Intern (APSSDC)
+  from: May 2021
+  to: Jul 2021
+  description: >
+    APSSDC – Contributed to digital form automation and student onboarding enhancements.  
+    Developed admission form validation using HTML, CSS, and JavaScript to ensure accurate data entry.  
+    Built a basic tracking system to monitor student admission status across institutes.  
+    Optimized portal performance for low-bandwidth 2G networks, improving accessibility for rural users.
+
+- title: Master of Science in Information Technology with Major in Emerging Technologies
+  from: 2023 
+  to: 2024
+  description: >
+    University of North Carolina at Charlotte - Focused on data-driven application design, scalable backend systems, and intelligent analytics.  
+    Key Courses: Data Mining, Software System and Development, Big Data, Network-Based Application Development, Database Systems, Software Development, Data Structures.
+
+- title: B.Tech in Computer Science – Specialization in Artificial Intelligence & Machine Learning (AIML)
+  from: 2019 
+  to: 2023
+  description: >
+    SRM University AP - Core computer science fundamentals, AI/ML algorithms, data-driven problem solving, and scalable application development.  
+    Key Courses: Data Structures and Algorithms, Object-Oriented Programming, Operating Systems, Database Management Systems, Computer Networks, Machine Learning, Artificial Intelligence, Deep Learning, Data Analytics, Cloud Computing, Web Technologies, Software Engineering.

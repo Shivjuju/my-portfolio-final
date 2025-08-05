@@ -1,0 +1,13 @@
+# Get Icons  from : https://fontawesome.com/icons
+# Get Colors from : https://brandcolors.net/
+
+linkedin:
+  url   : https://www.linkedin.com/in/shivjuju/
+  icon  : fab fa-linkedin-in
+  color : 007bb5
+
+
+email:
+  url   : mailto:saij31997@gmail.com
+  icon  : fas fa-envelope
+  color : EA4335

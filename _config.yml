@@ -1,0 +1,59 @@
+remote_theme: YoussefRaafatNasry/portfolYOU
+
+title: Sivasai J- Software Engineer | Real-Time ML & Cloud-Native Solutions
+email: saij31997@gmail.com
+
+description: >
+  Portfolio of Siva Sai J, SDE focused on building real-time data pipelines, scalable backend services, and cloud-based solutions using FastAPI, Kafka, and AWS.
+baseurl: ""
+url: "https://shivjuju.github.io"
+
+author:
+  name: Sivasai
+  image: https://Shivjuju.github.io/assets/images/JSS.jpeg
+  email: saij31997@gmail.com
+  linkedin: shivjuju
+
+collections:
+  projects:
+    output: true
+    permalink: /projects/:name
+  posts:
+    output: true
+    permalink: /blog/:title/
+
+nav:
+  - name: Home
+    link: /
+  - name: Projects
+    link: /projects/
+  - name: Blog
+    link: /blog/
+  - name: Tags
+    link: /tags/
+  - name: About
+    link: /about/
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jemoji
+
+defaults:
+  - scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "page"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+# Trigger rebuild
